@@ -1,1 +1,1 @@
-# React-news-api
+# React-news-api-Class-Components
